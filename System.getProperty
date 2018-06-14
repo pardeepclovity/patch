@@ -1,0 +1,5 @@
+remoteHost = System.getProperty("remoteHost");
+        if (remoteHost == null) remoteHost = "http://localhost:4444/wd/hub";
+        
+        browserName = System.getProperty("browserName");
+        if (browserName == null) browserName = "Internet Explorer";
