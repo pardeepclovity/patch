@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name= "Kenzen Patch">
+<test name="Kenzen Testcases">
+<classes>
+
+<class name="patch.kenzenpatch"/>
+<class name="patch.addteam"/> 
+<class name="patch.deleteTeam"/>
+
+
+<!-- <class name="expedia.delete"/> -->
+
+
+<!-- <methods>
+				<include name="ExpediaCreate" />
+				
+				
+					<exclude name="testMakeOrder" />
+				
+			</methods> -->
+		
+
+
+</classes>
+
+</test>
+
+
+</suite>

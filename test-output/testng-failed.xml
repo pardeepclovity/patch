@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Kenzen Patch]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Kenzen Testcases(failed)">
+    <classes>
+      <class name="patch.deleteTeam">
+        <methods>
+          <include name="delete" invocation-numbers="0 1 2 3 4 5 6"/>
+        </methods>
+      </class> <!-- patch.deleteTeam -->
+    </classes>
+  </test> <!-- Kenzen Testcases(failed) -->
+</suite> <!-- Failed suite [Kenzen Patch] -->

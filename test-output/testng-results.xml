@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-13T13:12:13Z" name="Kenzen Patch" finished-at="2018-06-13T13:12:35Z" duration-ms="22064">
+    <groups>
+    </groups>
+    <test started-at="2018-06-13T13:12:13Z" name="Kenzen Testcases" finished-at="2018-06-13T13:12:35Z" duration-ms="22064">
+      <class name="patch.deleteTeam">
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:32Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:33Z" duration-ms="879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pardeepk@clovity.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:33Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:33Z" duration-ms="231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:33Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:33Z" duration-ms="276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa1@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:33Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:33Z" duration-ms="249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com,pardeepk@clovity.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pardeepk@clovity.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:33Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:34Z" duration-ms="260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:34Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:34Z" duration-ms="224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa1@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="delete(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:34Z" name="delete" data-provider="getDataExcel" finished-at="2018-06-13T13:12:34Z" duration-ms="247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pardeepk@clovity.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:patch.deleteTeam@5217f3d0]" started-at="2018-06-13T13:12:34Z" name="closedriver" finished-at="2018-06-13T13:12:35Z" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- patch.deleteTeam -->
+      <class name="patch.kenzenpatch">
+        <test-method signature="login()[pri:0, instance:patch.kenzenpatch@54361a9]" started-at="2018-06-13T13:12:13Z" name="login" finished-at="2018-06-13T13:12:18Z" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- patch.kenzenpatch -->
+      <class name="patch.addteam">
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:18Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:21Z" duration-ms="2343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pardeepk@clovity.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:21Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:23Z" duration-ms="2779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:23Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:25Z" duration-ms="1383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa1@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:25Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:26Z" duration-ms="1658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com,pardeepk@clovity.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pardeepk@clovity.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:26Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:28Z" duration-ms="1389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:28Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:29Z" duration-ms="1397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qa1@kenzen.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+        <test-method signature="teamadd(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:patch.addteam@32232e55]" started-at="2018-06-13T13:12:29Z" name="teamadd" data-provider="getDataExcel" finished-at="2018-06-13T13:12:32Z" duration-ms="2441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa@kenzen.com,qa1@kenzen.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pardeepk@clovity.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamadd -->
+      </class> <!-- patch.addteam -->
+    </test> <!-- Kenzen Testcases -->
+  </suite> <!-- Kenzen Patch -->
+</testng-results>

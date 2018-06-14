@@ -1,0 +1,6 @@
+patch\CreateCsvFile.class
+patch\addteam.class
+patch\deleteTeam.class
+patch\devices.class
+patch\kenzenpatch.class
+patch\ReadExcel.class
